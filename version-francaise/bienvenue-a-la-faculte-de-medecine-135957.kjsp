@@ -1,0 +1,4758 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<!--[if IE 9]>    <html class="no-js ie ie9 html" xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr"> <![endif]-->
+<!--[if gt IE 9]> <html class="no-js ie html" xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr"> <![endif]-->
+<!--[if !IE]> --> <html class="no-js html" xmlns="http://www.w3.org/1999/xhtml" lang="fr" xml:lang="fr"> <!-- <![endif]-->
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, shrink-to-fit=no">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <meta name="description" content="" />
+    <meta name="DC.Description" lang="fr-FR" content="" />
+    <meta itemprop="description" content="" />
+    <meta itemprop="name" content="Bienvenue&#x20;&agrave;&#x20;la&#x20;Facult&eacute;&#x20;de&#x20;M&eacute;decine" />
+    <meta itemprop="image" content="https://med.univ-tours.fr/images/logo.png" />
+
+
+    
+    <meta property="og:title" content="Bienvenue&#x20;&agrave;&#x20;la&#x20;Facult&eacute;&#x20;de&#x20;M&eacute;decine" />
+    <meta property="og:description" content="" />
+    <meta property="og:site_name" content="Facult&eacute;&#x20;de&#x20;m&eacute;decine" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://med.univ-tours.fr/version-francaise/bienvenue-a-la-faculte-de-medecine-135957.kjsp?RH=MED_FR" />
+    <meta property="og:image" content="https://med.univ-tours.fr/images/logo.png" />
+
+    
+    <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="@UnivTours">
+    <meta name="twitter:url" content="https://med.univ-tours.fr/version-francaise/bienvenue-a-la-faculte-de-medecine-135957.kjsp?RH=MED_FR">
+    <meta name="twitter:title" content="Bienvenue&#x20;&agrave;&#x20;la&#x20;Facult&eacute;&#x20;de&#x20;M&eacute;decine">
+    <meta name="twitter:description" content="">
+        <meta name="twitter:image" content="https://med.univ-tours.fr/images/logo.png">
+
+
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>Facult&eacute; de m&eacute;decine - Bienvenue &agrave; la Facult&eacute; de M&eacute;decine</title>
+    <link rel="canonical" href="https://med.univ-tours.fr/version-francaise/bienvenue-a-la-faculte-de-medecine-135957.kjsp" />
+<link rel="shortcut icon" type="image/x-icon" href="/jsp/images/favicon.ico" />
+<link rel="icon" type="image/png" href="/jsp/images/favicon.ico" />
+<meta http-equiv="pragma" content="no-cache" />
+
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" />
+<meta name="DC.Title" content="Faculté de médecine - Bienvenue à la Faculté de Médecine" />
+<meta name="DC.Creator" content="Annabelle Broussard" />
+<meta name="DC.Subject" lang="fr-FR" content="" />
+<meta name="DC.Description" lang="fr-FR" content="" />
+<meta name="DC.Publisher" content="Annabelle Broussard" />
+<meta name="DC.Date.created" scheme="W3CDTF" content="20080118 00:00:00.0" />
+<meta name="DC.Date.modified" scheme="W3CDTF" content="20181127 13:41:54.0" />
+<meta name="DC.Language" scheme="RFC3066" content="fr-FR" />
+<meta name="DC.Rights" content="Copyright &copy; Faculté de médecine" />
+
+<meta name="author" lang="fr_FR" content="Annabelle Broussard" />
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta name="Date-Creation-yyyymmdd" content="20080118 00:00:00.0" />
+<meta name="Date-Revision-yyyymmdd" content="20181127 13:41:54.0" />
+<meta name="copyright" content="Copyright &copy; Faculté de médecine" />
+<meta name="reply-to" content="webmaster@univ-tours.fr" />
+<meta name="category" content="Internet" />
+<meta name="robots" content="index, follow" />
+<meta name="distribution" content="global" />
+<meta name="identifier-url" content="https://med.univ-tours.fr/" />
+<meta name="resource-type" content="document" />
+<meta name="expires" content="-1" />
+<meta name="Generator" content="" />
+<meta name="Formatter" content="" />
+
+    <link rel="start" title="Accueil" href="https://med.univ-tours.fr/" />
+    <link rel="alternate" type="application/rss+xml" title="Fil RSS des dix dernières actualités" href="https://med.univ-tours.fr/adminsite/webservices/export_rss.jsp?NOMBRE=10&amp;CODE_RUBRIQUE=MED&amp;LANGUE=0" />
+    <link rel="stylesheet" type="text/css" media="screen" href="https://med.univ-tours.fr/wro/jQueryCSS/7d2ab7b413961b0af56f308c06f9d7c59664b076.css"/>
+    <link rel="stylesheet" type="text/css" media="print" href="https://med.univ-tours.fr/wro/styles-print/3d9c4856692ba1dd854deef62cd3762981c8ca5b.css"/>
+    <link rel="stylesheet" type="text/css" media="screen" href="https://med.univ-tours.fr/wro/styles/70bb59004ee61302a05e2aea83c314f5935e7259.css"/>
+    
+
+
+
+
+
+
+
+
+
+<style type="text/css" media="screen">
+    /*  remplacer par variable bandeau (de site) usine à sites */
+    #bandeau {
+            background-image : url(https://med.univ-tours.fr/medias/photo/medecine-bandeau-accueil_1522308012808-png);
+    }
+        @media screen and (min-width: 768px) {
+                .ligne_1 > .colonne_1 {
+                    width : 100%;
+                }
+        }
+            .ie8 .ligne_1 > .colonne_1 {
+                width : 100%;
+            }
+        .texte--selectionne {
+            background-color: #45a59d;
+        }
+
+        ::-webkit-selection {
+            background-color: #45a59d;
+        }
+
+        ::-moz-selection {
+            background-color: #45a59d;
+        }
+
+        ::selection {
+            background-color: #45a59d;
+        }
+
+        mark {
+            background-color: #45a59d;
+        }
+
+        h2,
+        .h2 {
+            color: #45a59d;
+        }
+
+        h4,
+        .h4 {
+            color: #22524e;
+        }
+
+        .contenu ul li::before {
+            color: #45a59d;
+        }
+
+        a.type_rubrique_0004::after,
+        .a.type_rubrique_0004::after {
+            color: #45a59d;
+        }
+
+        .a::after {
+            color: #45a59d;
+        }
+
+        .a:focus::after {
+            background-color: #45a59d;
+        }
+
+        table th {
+            color: #45a59d;
+        }
+
+        body.fiche ul.pardefaut a::after,
+        body.fiche ul.style--0001:not(.liens):not(.annuaireksup):not(.offresstagesemplois) a::after {
+            color: #45a59d;
+        }
+
+        body.fiche ul.pardefaut a:hover::after,
+        body.fiche ul.pardefaut a:focus::after,
+        body.fiche ul.style--0001:not(.liens):not(.annuaireksup):not(.offresstagesemplois) a:hover::after,
+        body.fiche ul.style--0001:not(.liens):not(.annuaireksup):not(.offresstagesemplois) a:focus::after {
+            background-color: #45a59d;
+        }
+
+        .onglets a:hover,
+        .onglets a:focus,
+        .onglets #actif a {
+            color: #45a59d;
+        }
+
+        .onglets-section__bouton {
+            border: 0.1rem solid #45a59d;
+        }
+
+        .onglets__item--actif a,
+        .onglets__item--actif button {
+            border-bottom-color: #45a59d;
+        }
+
+        .fichiers-joints__lien::before,
+        #telecharger li::before {
+            color: #45a59d;
+        }
+
+        .tag.tag--primary {
+            background-color: #45a59d;
+        }
+
+        .chiffre-clef.chiffre-clef--primary .chiffre-clef__valeur,
+        .chiffre-clef.chiffre-clef--primary .chiffre-clef__description {
+            color: #45a59d;
+        }
+
+        #fil_ariane a {
+            color: #45a59d;
+        }
+
+        .zone-fiche-link__titre {
+            color: #45a59d;
+        }
+
+        .zone-fiche-link--pages .zone-fiche-link__titre {
+            color: #22524e;
+        }
+
+        .fiche-link:hover {
+            background-color: #45a59d;
+        }
+
+        .fiche-link .fiche-link__en-savoir-plus a:hover::after,
+        .fiche-link .fiche-link__en-savoir-plus a:focus::after {
+            color: #45a59d;
+        }
+
+        .button.button-primary,
+        .numero .numero__numero,
+        #page .google-maps > footer dl dd a,
+        .actions-fiche .actions-fiche__list > .actions-fiche__item.actions-fiche__item--dashboard > a.button-primary.lien_interne,
+        .actions-fiche .numero .actions-fiche__list > .actions-fiche__item.actions-fiche__item--dashboard > a.lien_interne.numero__numero,
+        .numero .actions-fiche .actions-fiche__list > .actions-fiche__item.actions-fiche__item--dashboard > a.lien_interne.numero__numero,
+        #form_saisie_front #menu_modification a.button-primary,
+        #form_saisie_front #menu_modification .numero a.numero__numero,
+        .numero #form_saisie_front #menu_modification a.numero__numero,
+        #form_saisie_front #menu_modification button.button-primary,
+        #form_saisie_front #menu_modification .numero button.numero__numero,
+        .numero #form_saisie_front #menu_modification button.numero__numero,
+        #form_saisie_front #valider-formulaire a.button-primary,
+        #form_saisie_front #valider-formulaire .numero a.numero__numero,
+        .numero #form_saisie_front #valider-formulaire a.numero__numero,
+        #form_saisie_front #valider-formulaire button.button-primary,
+        #form_saisie_front #valider-formulaire .numero button.numero__numero,
+        .numero #form_saisie_front #valider-formulaire button.numero__numero,
+        .saisiefront .contenu form #menu_modification a.button-primary,
+        .saisiefront .contenu form #menu_modification .numero a.numero__numero,
+        .numero .saisiefront .contenu form #menu_modification a.numero__numero,
+        .saisiefront .contenu form #menu_modification button.button-primary,
+        .saisiefront .contenu form #menu_modification .numero button.numero__numero,
+        .numero .saisiefront .contenu form #menu_modification button.numero__numero,
+        .saisiefront .contenu form #valider-formulaire a.button-primary,
+        .saisiefront .contenu form #valider-formulaire .numero a.numero__numero,
+        .numero .saisiefront .contenu form #valider-formulaire a.numero__numero,
+        .saisiefront .contenu form #valider-formulaire button.button-primary,
+        .saisiefront .contenu form #valider-formulaire .numero button.numero__numero,
+        .numero .saisiefront .contenu form #valider-formulaire button.numero__numero,
+        #form_saisie_front .button-primary[type="button"],
+        #form_saisie_front .button-primary[type="submit"],
+        #form_saisie_front .button-primary.button,
+        #form_saisie_front .numero .numero__numero,
+        .numero #form_saisie_front .numero__numero,
+        .saisiefront .contenu form .button-primary[type="button"],
+        .saisiefront .contenu form .button-primary[type="submit"],
+        .search-aggregation > .button-primary.aggregation-toggle,
+        #aggregation_search .button-primary[type="submit"],
+        #aggregation_search .numero [type="submit"].numero__numero,
+        .numero #aggregation_search [type="submit"].numero__numero,
+        .button-primary-extend,
+        #form_saisie_front #menu_modification a,
+        #form_saisie_front #menu_modification button,
+        #form_saisie_front #valider-formulaire a,
+        #form_saisie_front #valider-formulaire button,
+        .saisiefront .contenu form #menu_modification a,
+        .saisiefront .contenu form #menu_modification button,
+        .saisiefront .contenu form #valider-formulaire a,
+        .saisiefront .contenu form #valider-formulaire button,
+        #form_saisie_front [type="button"],
+        #form_saisie_front [type="submit"],
+        #form_saisie_front .numero .numero__numero,
+        .numero #form_saisie_front .numero__numero,
+        #form_saisie_front #page .google-maps > footer dl dd a,
+        #page .google-maps > footer dl dd #form_saisie_front a,
+        #form_saisie_front .actions-fiche .actions-fiche__list > .actions-fiche__item.actions-fiche__item--dashboard > a.lien_interne,
+        .actions-fiche #form_saisie_front .actions-fiche__list > .actions-fiche__item.actions-fiche__item--dashboard > a.lien_interne,
+        #form_saisie_front .button,
+        #form_saisie_front .search-aggregation > .aggregation-toggle,
+        .saisiefront .contenu form [type="button"],
+        .saisiefront .contenu form [type="submit"],
+        .saisiefront .contenu form .numero .numero__numero,
+        .numero .saisiefront .contenu form .numero__numero,
+        .saisiefront .contenu form #page .google-maps > footer dl dd a,
+        #page .google-maps > footer dl dd .saisiefront .contenu form a,
+        .saisiefront .contenu form .actions-fiche .actions-fiche__list > .actions-fiche__item.actions-fiche__item--dashboard > a.lien_interne,
+        .actions-fiche .saisiefront .contenu form .actions-fiche__list > .actions-fiche__item.actions-fiche__item--dashboard > a.lien_interne,
+        .saisiefront .contenu form .button,
+        .saisiefront .contenu form .search-aggregation > .aggregation-toggle,
+        .search-aggregation > .aggregation-toggle,
+        #aggregation_search [type="submit"] {
+            background-color: #45a59d;
+        }
+
+        .form-input:hover,
+        .search-metadata__search-input [name='q']:hover,
+        .form-select:hover,
+        #form_saisie_front [type="text"]:hover,
+        #form_saisie_front textarea:hover,
+        .saisiefront .contenu form [type="text"]:hover,
+        .saisiefront .contenu form textarea:hover,
+        .form-input:focus,
+        .search-metadata__search-input [name='q']:focus,
+        .form-select:focus,
+        #form_saisie_front [type="text"]:focus,
+        #form_saisie_front textarea:focus,
+        .saisiefront .contenu form [type="text"]:focus,
+        .saisiefront .contenu form textarea:focus,
+        .form-input[required],
+        .search-metadata__search-input [required][name='q'],
+        [required].form-select,
+        #form_saisie_front [required][type="text"],
+        #form_saisie_front textarea[required],
+        .saisiefront .contenu form [required][type="text"],
+        .saisiefront .contenu form textarea[required] {
+            border-color: #45a59d;
+        }
+
+        .paragraphe--3::before {
+            background-color: #45a59d;
+        }
+
+        #encadres .chiffre-clef.chiffre-clef--primary .chiffre-clef__valeur::after,
+        #encadres > .encadres--with-call-to-actions__popins .chiffre-clef.chiffre-clef--primary .chiffre-clef__valeur::after {
+            background-color: #45a59d;
+        }
+
+        .encadre_auto_liste h2,
+        .encadre_auto_liste .encadre__titre--1,
+        .encadre_recherche h2,
+        .encadre_recherche .encadre__titre--1,
+        .encadre_fiche.encadre--1 h2,
+        .encadre_fiche.encadre--1 .encadre__titre--1 {
+            color: #45a59d;
+        }
+
+        .fiche .date-publication-maj {
+            color: #45a59d;
+        }
+
+        #body .commentaires__saisie .plier-deplier__bouton:hover span,
+        #body .commentaires__saisie .plier-deplier__bouton:active span {
+            color: #45a59d;
+        }
+
+        .actions-fiche .actions-fiche__title {
+            color: #45a59d;
+        }
+
+        .header .header_toggle .header_toggle__libelle:hover,
+        .header .header_toggle .header_toggle__libelle:focus {
+            background-color: #45a59d;
+        }
+
+        .header .header_toggle .header_toggle__libelle.active {
+            background-color: #45a59d;
+        }
+
+        .header .header_toggle .header_toggle__menu {
+            background-color: #45a59d;
+        }
+
+        .header .header_toggle .header_toggle__libelle-icone {
+            color: #45a59d;
+        }
+
+        .header #recherche-simple #MOTS_CLEFS {
+            background-color: #45a59d;
+        }
+
+        .header #recherche-simple #MOTS_CLEFS + button {
+            background-color: #45a59d;
+        }
+
+        .header #recherche-simple #MOTS_CLEFS + button:focus svg {
+            color: #45a59d;
+        }
+
+        @media screen and (min-width: 768px) {
+            .header #recherche-simple #MOTS_CLEFS {
+                background-color: rgba(0, 0, 0, 0.2);
+            }
+
+            .header #recherche-simple #MOTS_CLEFS + button {
+                background-color: rgba(0, 0, 0, 0.2);
+            }
+
+            .header #recherche-simple #MOTS_CLEFS + button svg {
+                color: #45a59d;
+            }
+        }
+
+        .header #acces_etablissements .acces_etablissements__item__type {
+            color: #45a59d;
+        }
+
+        .header #acces_etablissements .acces_etablissements__item__voir_plus::after {
+            color: #45a59d;
+        }
+
+        #menu nav .menu__level__item--actif > .item > .item__control {
+            color: #45a59d;
+        }
+
+        #menu nav .menu__level__item--actif > .item > .item__control > .item__label {
+            color: #45a59d;
+        }
+
+        #menu nav .item__toggler .more svg,
+        #menu nav .item__toggler .less svg {
+            color: #45a59d;
+        }
+
+        .menu__toggle .open-menu svg {
+            color: #45a59d;
+        }
+
+        .menu__toggle .open-menu span {
+            color: #45a59d;
+        }
+
+        .menu__toggle .close-menu {
+            background-color: #45a59d;
+        }
+
+        @media screen and (min-width: 768px) {
+            #menu nav .menu__level--0 > ul.menu__level__items > .menu__level__item > .item > .item__control:hover,
+            #menu nav .menu__level--0 > ul.menu__level__items > .menu__level__item > .item > .item__control:focus,
+            #menu nav .menu__level--0 > ul.menu__level__items > .menu__level__item > .item > .item__control.active {
+                color: #45a59d;
+            }
+
+            #menu nav .menu__level--1 .menu__level__parent a {
+                color: #45a59d;
+            }
+
+            #menu nav .menu__level--1 .menu__level__parent a::after {
+                color: #45a59d;
+            }
+
+            #menu nav .menu__level--1 .menu__level__parent a:hover::after,
+            #menu nav .menu__level--1 .menu__level__parent a:focus::after {
+                background-color: #45a59d;
+            }
+        }
+
+        body.ficheaccueil .layout .focus-card__thematic {
+            color: #45a59d;
+        }
+
+        body.ficheaccueil .layout .focus-card__link a::after {
+            color: #45a59d;
+        }
+
+        body.ficheaccueil .layout .focus-card__link a:hover::after,
+        body.ficheaccueil .layout .focus-card__link a:focus::after {
+            background-color: #45a59d;
+        }
+
+        body.ficheaccueil .layout .chiffres-clefs-card .card__title {
+            color: #45a59d;
+        }
+
+        body.ficheaccueil .layout .chiffres-clefs-card .card__title a {
+            color: #45a59d;
+        }
+
+        body.ficheaccueil .layout .slider-card.slider-card--with-aside .slider-card__title {
+            background-color: #45a59d;
+        }
+
+        body.ficheaccueil .layout .slider .slider__button svg {
+            color: #45a59d;
+        }
+
+        body.ficheaccueil .layout .slider .slider__page__button.active::before {
+            background-color: #45a59d;
+        }
+
+        body.ficheaccueil .layout .video-slider__item__button.active {
+            background-color: #45a59d;
+        }
+
+        body.ficheaccueil .layout .video-slider__item__button.active::before {
+            border-bottom-color: #45a59d;
+        }
+
+        @media screen and (min-width: 1280px) {
+            body.ficheaccueil .layout .video-slider__item__button.active::before {
+                border-bottom-color: transparent;
+                border-right-color: #45a59d;
+            }
+        }
+
+        body.ficheaccueil .layout .video-slider__item__button.active .video-slider__item__link:focus::after,
+        body.ficheaccueil .layout .video-slider__item__button.active .video-slider__item__link:hover::after {
+            color: #45a59d;
+        }
+
+        body.ficheaccueil .layout .photo-card__title,
+        body.ficheaccueil .layout .photo-card__title a {
+            color: #45a59d;
+        }
+
+        body.ficheaccueil .layout .photo-card__link::after {
+            color: #45a59d;
+        }
+
+        body.ficheaccueil .layout .photo-card__link:hover::after,
+        body.ficheaccueil .layout .photo-card__link:focus::after {
+            background-color: #45a59d;
+        }
+
+        blockquote::before {
+            color: rgba(69,165,157,0.44);
+        }
+
+        body.ficheaccueil .layout .slider .slider__page__button:hover::before, body.ficheaccueil .layout .slider .slider__page__button:focus::before {
+            background-color: rgba(69,165,157,0.5);
+        }
+
+        body.ficheaccueil .layout .slider-card.slider-card--with-aside .slider-card__aside h2 em.highlighted-text {
+            -webkit-box-shadow: inset 0 -1rem 0 0 rgba(69,165,157,0.36);
+            -moz-box-shadow: inset 0 -1rem 0 0 rgba(69,165,157,0.36);
+            box-shadow: inset 0 -1rem 0 0 rgba(69,165,157,0.36);
+        }
+
+        body.ficheaccueil .layout .slider .slider__button:hover, body.ficheaccueil .layout .slider .slider__button:focus {
+            -webkit-box-shadow: inset 0 0 99em rgba(69,165,157,0.1);
+            -moz-box-shadow: inset 0 0 99em rgba(69,165,157,0.1);
+            box-shadow: inset 0 0 99em rgba(69,165,157,0.1);
+        }
+
+        .lien-fleche a:hover::after, .lien-fleche a:focus::after, .lien-fleche
+        .a:hover::after, .lien-fleche
+        .a:focus::after {
+            background-color: #45a59d;
+        }
+
+        .lien-fleche a::after, .lien-fleche
+        .a::after {
+            color: #45a59d;
+        }
+
+        body.ficheaccueil .layout .slider .slider__item.type_rubrique_0004::after,
+        body.ficheaccueil .layout .slider .slider__item[target="_blank"]::after {
+            color: #45a59d;
+        }
+
+        #body .mfp-arrow:hover,
+        #body .mfp-arrow:focus,
+        #body .mfp-close:hover,
+        #body .mfp-close:focus {
+            background-color: #45a59d;
+        }
+        .icon {
+            color: #ae0b31;
+        }
+
+        .has-nom-objet .nom-objet {
+            background-color: #ae0b31;
+        }
+
+        h3,
+        .h3,
+        #encadres [class*="paragraphe__titre"],
+        #encadres > .encadres--with-call-to-actions__popins [class*="paragraphe__titre"] {
+            color: #ae0b31;
+        }
+
+        blockquote {
+            color: #ae0b31;
+        }
+
+        .display--dark .lien-fleche a::after,
+        .fiche-link .lien-fleche a::after,
+        .encadre_fiche .lien-fleche a::after,
+        .encadre_auto_fiche .lien-fleche a::after,
+        .a::after,
+        .a::after,
+        .a::after {
+            border-color: #ae0b31;
+        }
+
+        .display--dark .lien-fleche a::after,
+        .fiche-link .lien-fleche a::after,
+        .encadre_fiche .lien-fleche a::after,
+        .encadre_auto_fiche .lien-fleche a::after,
+        .encadre--2 .lien-fleche a::after,
+        .footer .lien-fleche a::after,
+        body.ficheaccueil .layout .slider-card.slider-card--with-aside .slider-card__aside .slider-card__aside__inner .lien-fleche a::after,
+        body.ficheaccueil .layout .video-slider__item__button .lien-fleche a::after, .display--dark .lien-fleche .a::after,
+        .fiche-link .lien-fleche .a::after,
+        .encadre_fiche .lien-fleche .a::after,
+        .encadre_auto_fiche .lien-fleche .a::after,
+        .encadre--2 .lien-fleche .a::after,
+        .footer .lien-fleche .a::after,
+        body.ficheaccueil .layout .slider-card.slider-card--with-aside .slider-card__aside .slider-card__aside__inner .lien-fleche .a::after,
+        body.ficheaccueil .layout .video-slider__item__button .lien-fleche .a::after {
+            border-color: #ae0b31;
+        }
+
+        .display--dark .lien-fleche a:hover::after,
+        .fiche-link .lien-fleche a:hover::after,
+        .encadre_fiche .lien-fleche a:hover::after,
+        .encadre_auto_fiche .lien-fleche a:hover::after,
+        .encadre--2 .lien-fleche a:hover::after,
+        .footer .lien-fleche a:hover::after,
+        body.ficheaccueil .layout .slider-card.slider-card--with-aside .slider-card__aside .slider-card__aside__inner .lien-fleche a:hover::after,
+        body.ficheaccueil .layout .video-slider__item__button .lien-fleche a:hover::after,
+        .display--dark .lien-fleche a:focus::after,
+        .fiche-link .lien-fleche a:focus::after,
+        .encadre_fiche .lien-fleche a:focus::after,
+        .encadre_auto_fiche .lien-fleche a:focus::after,
+        .a:hover::after,
+        .a:hover::after,
+        .a:focus::after,
+        .a:focus::after,
+        .a:focus::after {
+            background-color: #ae0b31;
+        }
+
+        body.fiche ul.style--0006 li.avec_vignette:hover {
+            border-bottom-color: #ae0b31;
+        }
+
+        .contenu [class^="liste-definitions__terme"] {
+            color: #ae0b31;
+        }
+
+        .contenu .type_1 dt,
+        .contenu #demande_mot_passe dt dt,
+        #demande_mot_passe .contenu dt dt,
+        .contenu .type_1 .type-1__terme,
+        .contenu #demande_mot_passe dt .type-1__terme,
+        #demande_mot_passe .contenu dt .type-1__terme,
+        .contenu .type-1 dt,
+        .contenu .type-1 .type-1__terme {
+            color: #ae0b31;
+        }
+
+        .tag.tag--secondary {
+            background-color: #ae0b31;
+        }
+
+        .chiffre-clef.chiffre-clef--secondary .chiffre-clef__valeur,
+        .chiffre-clef.chiffre-clef--secondary .chiffre-clef__description {
+            color: #ae0b31;
+        }
+
+        .numero.style-0002 .numero__numero {
+            background-color: #ae0b31;
+        }
+
+        .temoignage-link__titre {
+            color: #ae0b31;
+        }
+
+        .temoignage-link__nom {
+            color: #ae0b31;
+        }
+
+        .formation-link__titre {
+            color: #ae0b31;
+        }
+
+        label,
+        .form-label,
+        #form_saisie_front label,
+        #form_saisie_front .label,
+        .saisiefront .contenu form label,
+        .saisiefront .contenu form .label {
+            color: #ae0b31;
+        }
+
+        #encadres .chiffre-clef.chiffre-clef--secondary .chiffre-clef__valeur::after,
+        #encadres > .encadres--with-call-to-actions__popins .chiffre-clef.chiffre-clef--secondary .chiffre-clef__valeur::after {
+            background-color: #ae0b31;
+        }
+
+        .fiche .thematiques {
+            color: #ae0b31;
+        }
+
+        #menu nav .menu__level--0 > .menu__level__items > .menu__level__item.menu__level__item--mobile-only .item__label {
+            color: #ae0b31;
+        }
+
+        @media screen and (min-width: 768px) {
+            #menu nav .menu__level--0 > ul.menu__level__items > .menu__level__item > .item > .item__control:hover,
+            #menu nav .menu__level--0 > ul.menu__level__items > .menu__level__item > .item > .item__control:focus {
+                color: #ae0b31;
+            }
+        }
+
+        body.ficheaccueil .layout .recherche-formation-card__input::-webkit-input-placeholder {
+            color: #ae0b31;
+        }
+
+        body.ficheaccueil .layout .recherche-formation-card__input:-ms-input-placeholder {
+            color: #ae0b31;
+        }
+
+        body.ficheaccueil .layout .recherche-formation-card__input::-moz-placeholder {
+            color: #ae0b31;
+        }
+
+        body.ficheaccueil .layout .recherche-formation-card__input:-moz-placeholder {
+            color: #ae0b31;
+        }
+
+        body.ficheaccueil .layout .focus-card__quote .highlighted-text {
+            color: #ae0b31;
+        }
+
+        body.ficheaccueil .layout .chiffres-clefs-card .card__thematic {
+            color: #ae0b31;
+        }
+
+        body.ficheaccueil .layout .video-card__title {
+            background-color: #ae0b31;
+        }
+
+        body.ficheaccueil .layout .video-slider__item__thematic {
+            color: #ae0b31;
+        }
+
+        body.ficheaccueil .layout .event .event__date__jour {
+            color: #ae0b31;
+        }
+</style>
+<style type="text/css" media="print">
+        a, h1, h2, button {
+            color: #45a59d;
+        }
+
+        body.formation [class^="onglets-section"] > button.onglets-section__bouton {
+            color: #45a59d;
+        }
+</style>
+
+    <script type="text/javascript">var html = document.getElementsByTagName('html')[0]; html.className = html.className.replace('no-js', 'js');</script>
+        <script type="text/javascript" src="https://med.univ-tours.fr/wro/scriptsCnil_fr_FR/66c9d6b278b7ca34946314c17a7a73e6d1d02c74.js"></script>
+        <script type="text/javascript">CookieCNIL.init('UA-3004683-20'); CookieCNIL.launchWithConsent();</script>
+    <script type="text/javascript" src="https://med.univ-tours.fr/wro/scripts/61196a39ad6337e4c7569dc5a56c120ba8b69df8.js"></script>
+</head>
+<body id="body" class="fiche pagelibre accueil" data-toggle="#menu .active, .header_toggle .active" data-toggle-bubble>
+    <header class="header">
+        <div class="topbar">
+            <div class="container">
+                <p id="liens_evitement" class="sr-only">
+                    <a href="#contenu-encadres">Contenu</a> |
+                    <a href="#menu_principal">Navigation</a> |
+                    <a href="#acces_directs">Accès directs</a> |
+                    <a href="#connexion">Connexion</a>
+                </p>
+                <div class="topbar__left">
+                    <button class="menu__toggle button button-transparent" data-toggle="body" data-toggle-class="show-menu">
+                        <span class="open-menu">
+                            <svg>
+                                <use xlink:href="/jsp/images/icones.svg#menu" />
+                            </svg>
+                            <span>Menu</span>
+                        </span>
+                        <span class="close-menu">
+                            <svg>
+                                <use xlink:href="/jsp/images/icones.svg#close" />
+                            </svg>
+                        </span>
+                    </button>
+                    <a class="topbar__logo" href="https://www.univ-tours.fr/site-de-l-universite/">
+                        <img src="/jsp/images/logo_interieur.svg" alt="Logo Faculté de médecine">
+                    </a>
+                </div>
+                <div class="topbar__right">
+                    
+
+
+
+    <ul id="liens_directs" class="mobile-hide"><!--
+            --><li class="menu__level__item header_toggle">
+                    <a href="https://med.univ-tours.fr/bibliotheque-emile-aron/" class="type_rubrique_0001 button button-transparent header_toggle__libelle">
+                        <span class="header_toggle__libelle-texte">
+                            Bibliothèque Emile-Aron
+                        </span>
+                    </a>
+            </li><!--
+            --><li class="menu__level__item header_toggle">
+                    <a href="https://med.univ-tours.fr/agenda/" class="type_rubrique_0001 button button-transparent header_toggle__libelle">
+                        <span class="header_toggle__libelle-texte">
+                            Accueil
+                        </span>
+                    </a>
+            </li><!--
+    --></ul>
+
+                    
+
+
+
+<ul id="acces_directs" class="mobile-hide">
+        <li class="acces-directs menu__level__item header_toggle">
+                <button class="header_toggle__libelle button button-transparent" data-toggle="[data-toggle-id='acces-0']" data-toggle-group="menus" type="button">
+                    <span class="header_toggle__libelle-texte">Accès directs</span>
+                    <svg class="header_toggle__libelle-icone">
+                        <use xlink:href="/jsp/images/icones.svg#arrow-down" />
+                    </svg>
+                </button>
+                <div class="menu__level header_toggle__menu" data-toggle-id="acces-0" data-toggle-target>
+                    <ul>
+                            <li class="menu__level__item">
+                                    <a href="https://med.univ-tours.fr/ent/" class="type_rubrique_0004">ENT</a>
+                            </li>
+                            <li class="menu__level__item">
+                                    <a href="https://med.univ-tours.fr/annuaire-du-chu/" class="type_rubrique_0004">Annuaire du CHU</a>
+                            </li>
+                            <li class="menu__level__item">
+                                    <a href="https://med.univ-tours.fr/nos-unites-de-recherche/" class="type_rubrique_0001">Nos unités de recherche</a>
+                            </li>
+                            <li class="menu__level__item">
+                                    <a href="https://med.univ-tours.fr/site-de-la-fmc/" class="type_rubrique_0004">Site de la FMC</a>
+                            </li>
+                            <li class="menu__level__item">
+                                    <a href="https://med.univ-tours.fr/site-du-dumg/" class="type_rubrique_0004">Site du DUMG</a>
+                            </li>
+                            <li class="menu__level__item">
+                                    <a href="https://med.univ-tours.fr/utile/" class="type_rubrique_0001">Utile</a>
+                            </li>
+                    </ul>
+                </div>
+        </li>
+</ul>
+
+                    
+
+
+
+
+
+
+                    
+
+
+
+    
+    
+        
+    
+
+
+
+
+
+
+
+
+
+<div id="recherche-simple" class="header_toggle">
+    <button class="header_toggle__libelle button button-transparent" data-toggle="[data-toggle-id='recherchesimple']" data-toggle-event="give-focus" data-toggle-group="menus" type="button">
+        <svg class="header_toggle__libelle-icone">
+            <use xlink:href="/jsp/images/icones.svg#search-magnify"></use>
+        </svg>
+        <span class="header_toggle__libelle-texte sr-only">Recherche</span>
+    </button>
+    <div data-toggle-id="recherchesimple" class="header_toggle__menu" data-toggle-target>
+        <form action="https://med.univ-tours.fr/servlet/search" method="get">
+            <input type="hidden" name="beanKey" value="150bfcee-1f87-11e7-a0e0-b753bedcad22" />
+            <input type="hidden" name="page" value="" />
+            
+            <input type="hidden" name="l" value="0">
+            <input type="hidden" data-inputfor="MOTS_CLEFS" id="MOTS_CLEFS_AUTOCOMPLETE"/>
+            <input name="q" autocomplete="off" role="search" type="search" id="MOTS_CLEFS" data-width="250" data-bean="multiFicheAutoComplete" data-beankey="150bfcee-1f87-11e7-a0e0-b753bedcad22" data-autocompleteurl="/servlet/com.kportal.servlet.autoCompletionServlet" placeholder="Mot-clé" title="Rechercher par mots-clés" /><!--
+            --><button type="submit" value="Rechercher">
+                <svg>
+                    <use xlink:href="/jsp/images/icones.svg#search-magnify"></use>
+                </svg>
+                <span class="sr-only">
+                    Rechercher
+                </span>
+            </button>
+        </form>
+    </div><!-- .plier-deplier__contenu -->
+</div><!-- #recherche-simple .plier-deplier -->
+
+
+                    
+
+
+
+
+
+
+
+                </div>
+            </div>
+        </div>
+        <div class="banniere" role="banner">
+            <div class="container">
+                
+
+
+
+
+
+
+    <a href="https://www.univ-tours.fr/site-de-l-universite/" class="banniere__logo" title="Retour à la page d'accueil">
+        <img src="/jsp/images/logo_interieur.svg" alt="Logo Faculté de médecine" title="Retour à la page d'accueil" />
+            <span class="banniere__baseline">Faculté de médecine</span>
+    </a>
+
+                
+
+
+
+
+
+
+
+
+
+<div id="menu" role="navigation" aria-expanded="false">
+    
+        
+        <div class="menu__overlay" data-toggle="body" data-toggle-class="show-menu"></div>
+        <nav>
+            <div class="menu__level menu__level--0 menu_principal menu_principal--riche">
+                
+                <ul class="menu__level__items"><!--
+                    
+                        
+                        
+                        
+                        
+                        
+                        --><li class="menu__level__item menu__level__item--mobile-only" data-toggle-id="MED_FR_LD1"><!--
+                            
+                            
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/bibliotheque-emile-aron/" aria-expanded="false">
+                    <span class="item__label">
+                        Bibliothèque Emile-Aron
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                            
+                        --></li><!--
+                    
+                        
+                        
+                        
+                        
+                        
+                        --><li class="menu__level__item menu__level__item--mobile-only" data-toggle-id="MED_FR_LD2"><!--
+                            
+                            
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/agenda/" aria-expanded="false">
+                    <span class="item__label">
+                        Accueil
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                            
+                        --></li><!--
+                    
+                        
+                        
+                        
+                        
+                        
+                        --><li class="menu__level__item menu__level__item--mobile-only" data-toggle-id="MED_FR_AD"><!--
+                            
+                            
+
+
+
+--><div class="item item--has-button"><!--
+    
+        
+            
+            
+                
+                
+                    
+                    
+                        --><button class="item__control type_rubrique_ACCES button button-transparent" type="button" data-toggle="[data-toggle-id='MED_FR_AD']" data-toggle-group="menus" aria-expanded="false">
+                        <span class="item__label">
+                                Accès directs
+                        </span>
+                        </button><!--
+                    
+                
+                
+                --><button class="item__toggler button button-transparent" type="button" data-toggle="[data-toggle-id='MED_FR_AD']" data-toggle-group="menus-toggler" aria-expanded="false">
+                    <span class="more">
+                        <svg>
+                            <use xlink:href="/jsp/images/icones.svg#angle-down" />
+                        </svg>
+                    </span>
+                    <span class="less">
+                        <svg>
+                            <use xlink:href="/jsp/images/icones.svg#angle-up" />
+                        </svg>
+                    </span>
+                </button><!--
+            
+        
+        
+    
+--></div><!--
+
+                            
+                                --><div class="menu__level menu__level--1" data-toggle-target><!--
+                                    
+                                    
+                                    
+                                    --><ul class="menu__level__items"><!--
+                                        
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            --><li class="menu__level__item menu__level__item--first-column" data-toggle-id="MED_FR_AD1"><!--
+                                                
+                                                
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0004" href="https://med.univ-tours.fr/ent/" aria-expanded="false">
+                    <span class="item__label">
+                        ENT
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                                                
+                                                
+
+
+
+
+
+
+                                            --></li><!--
+                                        
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            --><li class="menu__level__item menu__level__item--first-column" data-toggle-id="MED_FR_AD3"><!--
+                                                
+                                                
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0004" href="https://med.univ-tours.fr/annuaire-du-chu/" aria-expanded="false">
+                    <span class="item__label">
+                        Annuaire du CHU
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                                                
+                                                
+
+
+
+
+
+
+                                            --></li><!--
+                                        
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            --><li class="menu__level__item menu__level__item--first-column" data-toggle-id="MED_FR_AD4"><!--
+                                                
+                                                
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/nos-unites-de-recherche/" aria-expanded="false">
+                    <span class="item__label">
+                        Nos unités de recherche
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                                                
+                                                
+
+
+
+
+
+
+                                            --></li><!--
+                                        
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            --><li class="menu__level__item menu__level__item--last-column" data-toggle-id="MED_FR_AD5"><!--
+                                                
+                                                
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0004" href="https://med.univ-tours.fr/site-de-la-fmc/" aria-expanded="false">
+                    <span class="item__label">
+                        Site de la FMC
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                                                
+                                                
+
+
+
+
+
+
+                                            --></li><!--
+                                        
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            --><li class="menu__level__item menu__level__item--last-column" data-toggle-id="1543322767371"><!--
+                                                
+                                                
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0004" href="https://med.univ-tours.fr/site-du-dumg/" aria-expanded="false">
+                    <span class="item__label">
+                        Site du DUMG
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                                                
+                                                
+
+
+
+
+
+
+                                            --></li><!--
+                                        
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            --><li class="menu__level__item menu__level__item--last-column" data-toggle-id="1527515305334"><!--
+                                                
+                                                
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/utile/" aria-expanded="false">
+                    <span class="item__label">
+                        Utile
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                                                
+                                                
+
+
+
+
+
+
+                                            --></li><!--
+                                        
+                                    --></ul><!--
+                                    
+                                    
+                                --></div><!--
+                            
+                        --></li><!--
+                    
+                        
+                        
+                        
+                        
+                        
+                        --><li class="menu__level__item" data-toggle-id="1200650095848"><!--
+                            
+                            
+
+
+
+--><div class="item item--has-button item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/la-faculte/" aria-expanded="false">
+                    <span class="item__label">
+                        La Faculté
+                    </span>
+                </a><!--
+            
+            
+                
+                
+                    
+                    
+                        --><button class="item__control type_rubrique_0001 button button-transparent" type="button" data-toggle="[data-toggle-id='1200650095848']" data-toggle-group="menus" aria-expanded="false">
+                        <span class="item__label">
+                                La Faculté
+                        </span>
+                        </button><!--
+                    
+                
+                
+                --><button class="item__toggler button button-transparent" type="button" data-toggle="[data-toggle-id='1200650095848']" data-toggle-group="menus-toggler" aria-expanded="false">
+                    <span class="more">
+                        <svg>
+                            <use xlink:href="/jsp/images/icones.svg#angle-down" />
+                        </svg>
+                    </span>
+                    <span class="less">
+                        <svg>
+                            <use xlink:href="/jsp/images/icones.svg#angle-up" />
+                        </svg>
+                    </span>
+                </button><!--
+            
+        
+        
+    
+--></div><!--
+
+                            
+                                --><div class="menu__level menu__level--1" data-toggle-target><!--
+                                    
+                                    
+                                        
+                                        --><div class="menu__level__parent">
+                                            <a href="https://med.univ-tours.fr/la-faculte/">
+                                                La Faculté
+                                            </a>
+                                        </div><!--
+                                    
+                                    
+                                    --><ul class="menu__level__items"><!--
+                                        
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            --><li class="menu__level__item menu__level__item--first-column" data-toggle-id="1522335756241"><!--
+                                                
+                                                
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/la-faculte/le-mot-du-doyen/" aria-expanded="false">
+                    <span class="item__label">
+                        Le mot du Doyen
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                                                
+                                                
+
+
+
+
+
+
+                                            --></li><!--
+                                        
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            --><li class="menu__level__item menu__level__item--first-column" data-toggle-id="1544446270826"><!--
+                                                
+                                                
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/la-faculte/commission-ethique-et-deontologie/" aria-expanded="false">
+                    <span class="item__label">
+                        Commission Ethique et Déontologie
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                                                
+                                                
+
+
+
+
+
+
+                                            --></li><!--
+                                        
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            --><li class="menu__level__item menu__level__item--first-column" data-toggle-id="1522334568222"><!--
+                                                
+                                                
+
+
+
+--><div class="item item--has-button item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_7000" href="https://med.univ-tours.fr/la-faculte/organisation-/" aria-expanded="false">
+                    <span class="item__label">
+                        Organisation
+                    </span>
+                </a><!--
+            
+            
+                
+                
+                    
+                    
+                        --><button class="item__control type_rubrique_7000 button button-transparent" type="button" data-toggle="[data-toggle-id='1522334568222']" data-toggle-group="menu-1200650095848" aria-expanded="false">
+                        <span class="item__label">
+                                Organisation
+                        </span>
+                        </button><!--
+                    
+                
+                
+                --><button class="item__toggler button button-transparent" type="button" data-toggle="[data-toggle-id='1522334568222']" data-toggle-group="menu-1200650095848-toggler" aria-expanded="false">
+                    <span class="more">
+                        <svg>
+                            <use xlink:href="/jsp/images/icones.svg#angle-down" />
+                        </svg>
+                    </span>
+                    <span class="less">
+                        <svg>
+                            <use xlink:href="/jsp/images/icones.svg#angle-up" />
+                        </svg>
+                    </span>
+                </button><!--
+            
+        
+        
+    
+--></div><!--
+
+                                                
+                                                
+
+
+
+
+
+    --><div class="menu__level menu__level--2" data-toggle-target><!--
+        
+        --><ul class="menu__level__items"><!--
+            
+                
+                
+                
+                --><li class="menu__level__item" data-toggle-id="1247219462482"><!--
+                    
+                    
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/la-faculte/organisation/" aria-expanded="false">
+                    <span class="item__label">
+                        Services administratifs et techniques
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                    
+                    
+
+
+
+
+
+
+                --></li><!--
+            
+                
+                
+                
+                --><li class="menu__level__item" data-toggle-id="1204040036657"><!--
+                    
+                    
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/la-faculte/les-commissions/" aria-expanded="false">
+                    <span class="item__label">
+                        Les commissions
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                    
+                    
+
+
+
+
+
+
+                --></li><!--
+            
+                
+                
+                
+                --><li class="menu__level__item" data-toggle-id="1201872999529"><!--
+                    
+                    
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/la-faculte/le-conseil-de-faculte/" aria-expanded="false">
+                    <span class="item__label">
+                        Le Conseil de Faculté
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                    
+                    
+
+
+
+
+
+
+                --></li><!--
+            
+                
+                
+                
+                --><li class="menu__level__item" data-toggle-id="1201873075530"><!--
+                    
+                    
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/la-faculte/la-faculte-en-chiffres/" aria-expanded="false">
+                    <span class="item__label">
+                        La Faculté en chiffres
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                    
+                    
+
+
+
+
+
+
+                --></li><!--
+            
+        --></ul><!--
+        
+    --></div><!--
+
+
+                                            --></li><!--
+                                        
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            --><li class="menu__level__item menu__level__item--first-column" data-toggle-id="1200652702559"><!--
+                                                
+                                                
+
+
+
+--><div class="item item--has-button item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_7000" href="https://med.univ-tours.fr/recherche/" aria-expanded="false">
+                    <span class="item__label">
+                        Recherche
+                    </span>
+                </a><!--
+            
+            
+                
+                
+                    
+                    
+                        --><button class="item__control type_rubrique_7000 button button-transparent" type="button" data-toggle="[data-toggle-id='1200652702559']" data-toggle-group="menu-1200650095848" aria-expanded="false">
+                        <span class="item__label">
+                                Recherche
+                        </span>
+                        </button><!--
+                    
+                
+                
+                --><button class="item__toggler button button-transparent" type="button" data-toggle="[data-toggle-id='1200652702559']" data-toggle-group="menu-1200650095848-toggler" aria-expanded="false">
+                    <span class="more">
+                        <svg>
+                            <use xlink:href="/jsp/images/icones.svg#angle-down" />
+                        </svg>
+                    </span>
+                    <span class="less">
+                        <svg>
+                            <use xlink:href="/jsp/images/icones.svg#angle-up" />
+                        </svg>
+                    </span>
+                </button><!--
+            
+        
+        
+    
+--></div><!--
+
+                                                
+                                                
+
+
+
+
+
+    --><div class="menu__level menu__level--2" data-toggle-target><!--
+        
+        --><ul class="menu__level__items"><!--
+            
+                
+                
+                
+                --><li class="menu__level__item" data-toggle-id="1228814642694"><!--
+                    
+                    
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/recherche/laboratoires-de-recherche-ppf-et-ifr/" aria-expanded="false">
+                    <span class="item__label">
+                        Laboratoires de Recherche, PPF et IFR
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                    
+                    
+
+
+
+
+
+
+                --></li><!--
+            
+                
+                
+                
+                --><li class="menu__level__item" data-toggle-id="1256745061297"><!--
+                    
+                    
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/recherche/internes-et-recherche/" aria-expanded="false">
+                    <span class="item__label">
+                        Internes et Recherche
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                    
+                    
+
+
+
+
+
+
+                --></li><!--
+            
+                
+                
+                
+                --><li class="menu__level__item" data-toggle-id="1294416752722"><!--
+                    
+                    
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/recherche/cca-ahu-et-recherche/" aria-expanded="false">
+                    <span class="item__label">
+                        CCA, AHU et Recherche
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                    
+                    
+
+
+
+
+
+
+                --></li><!--
+            
+                
+                
+                
+                --><li class="menu__level__item" data-toggle-id="1232446988976"><!--
+                    
+                    
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/recherche/annee-de-recherche/" aria-expanded="false">
+                    <span class="item__label">
+                        Année de Recherche
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                    
+                    
+
+
+
+
+
+
+                --></li><!--
+            
+                
+                
+                
+                --><li class="menu__level__item" data-toggle-id="1228813857055"><!--
+                    
+                    
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/recherche/aide-a-la-recherche/" aria-expanded="false">
+                    <span class="item__label">
+                        Aide à la recherche
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                    
+                    
+
+
+
+
+
+
+                --></li><!--
+            
+        --></ul><!--
+        
+    --></div><!--
+
+
+                                            --></li><!--
+                                        
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            --><li class="menu__level__item menu__level__item--first-column" data-toggle-id="1200652800080"><!--
+                                                
+                                                
+
+
+
+--><div class="item item--has-button item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/international/" aria-expanded="false">
+                    <span class="item__label">
+                        International
+                    </span>
+                </a><!--
+            
+            
+                
+                
+                    
+                    
+                        --><button class="item__control type_rubrique_0001 button button-transparent" type="button" data-toggle="[data-toggle-id='1200652800080']" data-toggle-group="menu-1200650095848" aria-expanded="false">
+                        <span class="item__label">
+                                International
+                        </span>
+                        </button><!--
+                    
+                
+                
+                --><button class="item__toggler button button-transparent" type="button" data-toggle="[data-toggle-id='1200652800080']" data-toggle-group="menu-1200650095848-toggler" aria-expanded="false">
+                    <span class="more">
+                        <svg>
+                            <use xlink:href="/jsp/images/icones.svg#angle-down" />
+                        </svg>
+                    </span>
+                    <span class="less">
+                        <svg>
+                            <use xlink:href="/jsp/images/icones.svg#angle-up" />
+                        </svg>
+                    </span>
+                </button><!--
+            
+        
+        
+    
+--></div><!--
+
+                                                
+                                                
+
+
+
+
+
+    --><div class="menu__level menu__level--2" data-toggle-target><!--
+        
+        --><ul class="menu__level__items"><!--
+            
+                
+                
+                
+                --><li class="menu__level__item" data-toggle-id="1458211620136"><!--
+                    
+                    
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/international/venir-etudier-a-tours/" aria-expanded="false">
+                    <span class="item__label">
+                        Venir étudier à Tours
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                    
+                    
+
+
+
+
+
+
+                --></li><!--
+            
+                
+                
+                
+                --><li class="menu__level__item" data-toggle-id="1458212528108"><!--
+                    
+                    
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/international/partir-a-l-etranger/" aria-expanded="false">
+                    <span class="item__label">
+                        Partir à l'étranger
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                    
+                    
+
+
+
+
+
+
+                --></li><!--
+            
+        --></ul><!--
+        
+    --></div><!--
+
+
+                                            --></li><!--
+                                        
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            --><li class="menu__level__item menu__level__item--last-column" data-toggle-id="1510325590571"><!--
+                                                
+                                                
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/la-faculte/bureau-interface-professeurs-etudiants-bipe-/" aria-expanded="false">
+                    <span class="item__label">
+                         Le Bureau Interface Professeurs Étudiants (BIPE)
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                                                
+                                                
+
+
+
+
+
+
+                                            --></li><!--
+                                        
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            --><li class="menu__level__item menu__level__item--last-column" data-toggle-id="1205249164183"><!--
+                                                
+                                                
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/la-faculte/la-bibliotheque-universitaire/" aria-expanded="false">
+                    <span class="item__label">
+                        La Bibliothèque Universitaire
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                                                
+                                                
+
+
+
+
+
+
+                                            --></li><!--
+                                        
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            --><li class="menu__level__item menu__level__item--last-column" data-toggle-id="1522336348376"><!--
+                                                
+                                                
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0004" href="https://med.univ-tours.fr/la-faculte/journal-de-la-faculte-la-rabelaisienne/" aria-expanded="false">
+                    <span class="item__label">
+                        Journal de la Faculté: La Rabelaisienne
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                                                
+                                                
+
+
+
+
+
+
+                                            --></li><!--
+                                        
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            --><li class="menu__level__item menu__level__item--last-column" data-toggle-id="1200652873422"><!--
+                                                
+                                                
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/la-faculte/vie-etudiante/" aria-expanded="false">
+                    <span class="item__label">
+                        Vie étudiante
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                                                
+                                                
+
+
+
+
+
+
+                                            --></li><!--
+                                        
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            --><li class="menu__level__item menu__level__item--last-column" data-toggle-id="1544712070488"><!--
+                                                
+                                                
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0004" href="https://med.univ-tours.fr/la-faculte/pole-print-picsel-et-sid-com/" aria-expanded="false">
+                    <span class="item__label">
+                        Pôle PRINT: PICSEL et SID'COM
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                                                
+                                                
+
+
+
+
+
+
+                                            --></li><!--
+                                        
+                                    --></ul><!--
+                                    
+                                    
+                                --></div><!--
+                            
+                        --></li><!--
+                    
+                        
+                        
+                        
+                        
+                        
+                        --><li class="menu__level__item" data-toggle-id="1200652570977"><!--
+                            
+                            
+
+
+
+--><div class="item item--has-button item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/formations/" aria-expanded="false">
+                    <span class="item__label">
+                        Formations
+                    </span>
+                </a><!--
+            
+            
+                
+                
+                    
+                    
+                        --><button class="item__control type_rubrique_0001 button button-transparent" type="button" data-toggle="[data-toggle-id='1200652570977']" data-toggle-group="menus" aria-expanded="false">
+                        <span class="item__label">
+                                Formations
+                        </span>
+                        </button><!--
+                    
+                
+                
+                --><button class="item__toggler button button-transparent" type="button" data-toggle="[data-toggle-id='1200652570977']" data-toggle-group="menus-toggler" aria-expanded="false">
+                    <span class="more">
+                        <svg>
+                            <use xlink:href="/jsp/images/icones.svg#angle-down" />
+                        </svg>
+                    </span>
+                    <span class="less">
+                        <svg>
+                            <use xlink:href="/jsp/images/icones.svg#angle-up" />
+                        </svg>
+                    </span>
+                </button><!--
+            
+        
+        
+    
+--></div><!--
+
+                            
+                                --><div class="menu__level menu__level--1" data-toggle-target><!--
+                                    
+                                    
+                                        
+                                        --><div class="menu__level__parent">
+                                            <a href="https://med.univ-tours.fr/formations/">
+                                                Formations
+                                            </a>
+                                        </div><!--
+                                    
+                                    
+                                    --><ul class="menu__level__items"><!--
+                                        
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            --><li class="menu__level__item menu__level__item--first-column" data-toggle-id="1284716093527"><!--
+                                                
+                                                
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/formations/premiere-annee-paces-/" aria-expanded="false">
+                    <span class="item__label">
+                        Première année (PACES)
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                                                
+                                                
+
+
+
+
+
+
+                                            --></li><!--
+                                        
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            --><li class="menu__level__item menu__level__item--first-column" data-toggle-id="1200664421277"><!--
+                                                
+                                                
+
+
+
+--><div class="item item--has-button item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/formations/etudes-medicales/" aria-expanded="false">
+                    <span class="item__label">
+                        Etudes médicales
+                    </span>
+                </a><!--
+            
+            
+                
+                
+                    
+                    
+                        --><button class="item__control type_rubrique_0001 button button-transparent" type="button" data-toggle="[data-toggle-id='1200664421277']" data-toggle-group="menu-1200652570977" aria-expanded="false">
+                        <span class="item__label">
+                                Etudes médicales
+                        </span>
+                        </button><!--
+                    
+                
+                
+                --><button class="item__toggler button button-transparent" type="button" data-toggle="[data-toggle-id='1200664421277']" data-toggle-group="menu-1200652570977-toggler" aria-expanded="false">
+                    <span class="more">
+                        <svg>
+                            <use xlink:href="/jsp/images/icones.svg#angle-down" />
+                        </svg>
+                    </span>
+                    <span class="less">
+                        <svg>
+                            <use xlink:href="/jsp/images/icones.svg#angle-up" />
+                        </svg>
+                    </span>
+                </button><!--
+            
+        
+        
+    
+--></div><!--
+
+                                                
+                                                
+
+
+
+
+
+    --><div class="menu__level menu__level--2" data-toggle-target><!--
+        
+        --><ul class="menu__level__items"><!--
+            
+                
+                
+                
+                --><li class="menu__level__item" data-toggle-id="1425891248557"><!--
+                    
+                    
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/formations/etudes-medicales/passerelles/" aria-expanded="false">
+                    <span class="item__label">
+                        Passerelles
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                    
+                    
+
+
+
+
+
+
+                --></li><!--
+            
+                
+                
+                
+                --><li class="menu__level__item" data-toggle-id="1204815452082"><!--
+                    
+                    
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/formations/etudes-medicales/cesp/" aria-expanded="false">
+                    <span class="item__label">
+                        CESP
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                    
+                    
+
+
+
+
+
+
+                --></li><!--
+            
+                
+                
+                
+                --><li class="menu__level__item" data-toggle-id="1222763507920"><!--
+                    
+                    
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/formations/etudes-medicales/l2-l3/" aria-expanded="false">
+                    <span class="item__label">
+                        L2-L3
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                    
+                    
+
+
+
+
+
+
+                --></li><!--
+            
+                
+                
+                
+                --><li class="menu__level__item" data-toggle-id="1222763616701"><!--
+                    
+                    
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/formations/etudes-medicales/mm1-mm2-mm3/" aria-expanded="false">
+                    <span class="item__label">
+                        MM1*MM2*MM3
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                    
+                    
+
+
+
+
+
+
+                --></li><!--
+            
+                
+                
+                
+                --><li class="menu__level__item" data-toggle-id="1209391003749"><!--
+                    
+                    
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/formations/etudes-medicales/dprb-ecole-inserm/" aria-expanded="false">
+                    <span class="item__label">
+                        DPRB / Ecole Inserm
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                    
+                    
+
+
+
+
+
+
+                --></li><!--
+            
+                
+                
+                
+                --><li class="menu__level__item" data-toggle-id="1204816473150"><!--
+                    
+                    
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/formations/etudes-medicales/examen-national-classant-/" aria-expanded="false">
+                    <span class="item__label">
+                        Examen National Classant 
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                    
+                    
+
+
+
+
+
+
+                --></li><!--
+            
+                
+                
+                
+                --><li class="menu__level__item" data-toggle-id="1260171608388"><!--
+                    
+                    
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/formations/etudes-medicales/capacites/" aria-expanded="false">
+                    <span class="item__label">
+                        Capacités
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                    
+                    
+
+
+
+
+
+
+                --></li><!--
+            
+                
+                
+                
+                --><li class="menu__level__item" data-toggle-id="1260175176218"><!--
+                    
+                    
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/formations/etudes-medicales/du-et-diu-de-medecine/" aria-expanded="false">
+                    <span class="item__label">
+                        DU et DIU de médecine
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                    
+                    
+
+
+
+
+
+
+                --></li><!--
+            
+                
+                
+                
+                --><li class="menu__level__item" data-toggle-id="1260175355705"><!--
+                    
+                    
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/formations/etudes-medicales/des-et-desc-de-medecine/" aria-expanded="false">
+                    <span class="item__label">
+                        DES et DESC de médecine
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                    
+                    
+
+
+
+
+
+
+                --></li><!--
+            
+                
+                
+                
+                --><li class="menu__level__item" data-toggle-id="1290087778997"><!--
+                    
+                    
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/formations/etudes-medicales/theses/" aria-expanded="false">
+                    <span class="item__label">
+                        Thèses
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                    
+                    
+
+
+
+
+
+
+                --></li><!--
+            
+        --></ul><!--
+        
+    --></div><!--
+
+
+                                            --></li><!--
+                                        
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            --><li class="menu__level__item menu__level__item--first-column" data-toggle-id="1524838560552"><!--
+                                                
+                                                
+
+
+
+--><div class="item item--has-button item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_7000" href="https://med.univ-tours.fr/formations/langues-etrangeres/" aria-expanded="false">
+                    <span class="item__label">
+                        Langues étrangères
+                    </span>
+                </a><!--
+            
+            
+                
+                
+                    
+                    
+                        --><button class="item__control type_rubrique_7000 button button-transparent" type="button" data-toggle="[data-toggle-id='1524838560552']" data-toggle-group="menu-1200652570977" aria-expanded="false">
+                        <span class="item__label">
+                                Langues étrangères
+                        </span>
+                        </button><!--
+                    
+                
+                
+                --><button class="item__toggler button button-transparent" type="button" data-toggle="[data-toggle-id='1524838560552']" data-toggle-group="menu-1200652570977-toggler" aria-expanded="false">
+                    <span class="more">
+                        <svg>
+                            <use xlink:href="/jsp/images/icones.svg#angle-down" />
+                        </svg>
+                    </span>
+                    <span class="less">
+                        <svg>
+                            <use xlink:href="/jsp/images/icones.svg#angle-up" />
+                        </svg>
+                    </span>
+                </button><!--
+            
+        
+        
+    
+--></div><!--
+
+                                                
+                                                
+
+
+
+
+
+    --><div class="menu__level menu__level--2" data-toggle-target><!--
+        
+        --><ul class="menu__level__items"><!--
+            
+                
+                
+                
+                --><li class="menu__level__item" data-toggle-id="1452518412783"><!--
+                    
+                    
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/formations/langues-etrangeres/departement-d-anglais/" aria-expanded="false">
+                    <span class="item__label">
+                        Département d'Anglais
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                    
+                    
+
+
+
+
+
+
+                --></li><!--
+            
+                
+                
+                
+                --><li class="menu__level__item" data-toggle-id="1485260670470"><!--
+                    
+                    
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/formations/langues-etrangeres/centre-de-ressources-en-langues/" aria-expanded="false">
+                    <span class="item__label">
+                        Centre de Ressources en Langues
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                    
+                    
+
+
+
+
+
+
+                --></li><!--
+            
+        --></ul><!--
+        
+    --></div><!--
+
+
+                                            --></li><!--
+                                        
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            --><li class="menu__level__item menu__level__item--first-column" data-toggle-id="1260176026666"><!--
+                                                
+                                                
+
+
+
+--><div class="item item--has-button item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/formations/masters-dprb-dprsh/" aria-expanded="false">
+                    <span class="item__label">
+                        Masters DPRB DPRSH
+                    </span>
+                </a><!--
+            
+            
+                
+                
+                    
+                    
+                        --><button class="item__control type_rubrique_0001 button button-transparent" type="button" data-toggle="[data-toggle-id='1260176026666']" data-toggle-group="menu-1200652570977" aria-expanded="false">
+                        <span class="item__label">
+                                Masters DPRB DPRSH
+                        </span>
+                        </button><!--
+                    
+                
+                
+                --><button class="item__toggler button button-transparent" type="button" data-toggle="[data-toggle-id='1260176026666']" data-toggle-group="menu-1200652570977-toggler" aria-expanded="false">
+                    <span class="more">
+                        <svg>
+                            <use xlink:href="/jsp/images/icones.svg#angle-down" />
+                        </svg>
+                    </span>
+                    <span class="less">
+                        <svg>
+                            <use xlink:href="/jsp/images/icones.svg#angle-up" />
+                        </svg>
+                    </span>
+                </button><!--
+            
+        
+        
+    
+--></div><!--
+
+                                                
+                                                
+
+
+
+
+
+    --><div class="menu__level menu__level--2" data-toggle-target><!--
+        
+        --><ul class="menu__level__items"><!--
+            
+                
+                
+                
+                --><li class="menu__level__item" data-toggle-id="1522322309062"><!--
+                    
+                    
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/formations/masters-dprb-dprsh/masters/" aria-expanded="false">
+                    <span class="item__label">
+                        Masters
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                    
+                    
+
+
+
+
+
+
+                --></li><!--
+            
+                
+                
+                
+                --><li class="menu__level__item" data-toggle-id="1490952538966"><!--
+                    
+                    
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/formations/masters-dprb-dprsh/dprb/" aria-expanded="false">
+                    <span class="item__label">
+                        DPRB
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                    
+                    
+
+
+
+
+
+
+                --></li><!--
+            
+                
+                
+                
+                --><li class="menu__level__item" data-toggle-id="1490949749973"><!--
+                    
+                    
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/formations/masters-dprb-dprsh/dprsh-presentation/" aria-expanded="false">
+                    <span class="item__label">
+                        DPRSH
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                    
+                    
+
+
+
+
+
+
+                --></li><!--
+            
+        --></ul><!--
+        
+    --></div><!--
+
+
+                                            --></li><!--
+                                        
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            --><li class="menu__level__item menu__level__item--first-column" data-toggle-id="1200652613948"><!--
+                                                
+                                                
+
+
+
+--><div class="item item--has-button item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/formation-continue/" aria-expanded="false">
+                    <span class="item__label">
+                        Formation continue
+                    </span>
+                </a><!--
+            
+            
+                
+                
+                    
+                    
+                        --><button class="item__control type_rubrique_0001 button button-transparent" type="button" data-toggle="[data-toggle-id='1200652613948']" data-toggle-group="menu-1200652570977" aria-expanded="false">
+                        <span class="item__label">
+                                Formation continue
+                        </span>
+                        </button><!--
+                    
+                
+                
+                --><button class="item__toggler button button-transparent" type="button" data-toggle="[data-toggle-id='1200652613948']" data-toggle-group="menu-1200652570977-toggler" aria-expanded="false">
+                    <span class="more">
+                        <svg>
+                            <use xlink:href="/jsp/images/icones.svg#angle-down" />
+                        </svg>
+                    </span>
+                    <span class="less">
+                        <svg>
+                            <use xlink:href="/jsp/images/icones.svg#angle-up" />
+                        </svg>
+                    </span>
+                </button><!--
+            
+        
+        
+    
+--></div><!--
+
+                                                
+                                                
+
+
+
+
+
+    --><div class="menu__level menu__level--2" data-toggle-target><!--
+        
+        --><ul class="menu__level__items"><!--
+            
+                
+                
+                
+                --><li class="menu__level__item" data-toggle-id="1214902778557"><!--
+                    
+                    
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/formation-continue/formation-continue/" aria-expanded="false">
+                    <span class="item__label">
+                        Formation continue
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                    
+                    
+
+
+
+
+
+
+                --></li><!--
+            
+                
+                
+                
+                --><li class="menu__level__item" data-toggle-id="1241508632583"><!--
+                    
+                    
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/formation-continue/du-et-diu/" aria-expanded="false">
+                    <span class="item__label">
+                        DU et DIU
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                    
+                    
+
+
+
+
+
+
+                --></li><!--
+            
+                
+                
+                
+                --><li class="menu__level__item" data-toggle-id="1265128954861"><!--
+                    
+                    
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/formation-continue/masters/" aria-expanded="false">
+                    <span class="item__label">
+                        Masters
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                    
+                    
+
+
+
+
+
+
+                --></li><!--
+            
+                
+                
+                
+                --><li class="menu__level__item" data-toggle-id="1265129116635"><!--
+                    
+                    
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/formation-continue/capacites/" aria-expanded="false">
+                    <span class="item__label">
+                        Capacités
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                    
+                    
+
+
+
+
+
+
+                --></li><!--
+            
+                
+                
+                
+                --><li class="menu__level__item" data-toggle-id="1214902689191"><!--
+                    
+                    
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/formation-continue/medecine-generale/" aria-expanded="false">
+                    <span class="item__label">
+                        Médecine Générale
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                    
+                    
+
+
+
+
+
+
+                --></li><!--
+            
+                
+                
+                
+                --><li class="menu__level__item" data-toggle-id="1357553493575"><!--
+                    
+                    
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/formation-continue/paps/" aria-expanded="false">
+                    <span class="item__label">
+                        PAPS
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                    
+                    
+
+
+
+
+
+
+                --></li><!--
+            
+        --></ul><!--
+        
+    --></div><!--
+
+
+                                            --></li><!--
+                                        
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            --><li class="menu__level__item menu__level__item--last-column" data-toggle-id="1524840834286"><!--
+                                                
+                                                
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0004" href="https://med.univ-tours.fr/formations/le-centre-regional-d-enseignement-par-la-simulation-en-sante/" aria-expanded="false">
+                    <span class="item__label">
+                        Le Centre Régional d'Enseignement par la Simulation en Santé
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                                                
+                                                
+
+
+
+
+
+
+                                            --></li><!--
+                                        
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            --><li class="menu__level__item menu__level__item--last-column" data-toggle-id="1539245918472"><!--
+                                                
+                                                
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/formations/faclab-/" aria-expanded="false">
+                    <span class="item__label">
+                        FacLab 
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                                                
+                                                
+
+
+
+
+
+
+                                            --></li><!--
+                                        
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            --><li class="menu__level__item menu__level__item--last-column" data-toggle-id="1200664465649"><!--
+                                                
+                                                
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/formations/ecole-d-orthophonie/" aria-expanded="false">
+                    <span class="item__label">
+                        Ecole d'Orthophonie
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                                                
+                                                
+
+
+
+
+
+
+                                            --></li><!--
+                                        
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            --><li class="menu__level__item menu__level__item--last-column" data-toggle-id="1298292122582"><!--
+                                                
+                                                
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/formations/ecole-d-orthoptie/" aria-expanded="false">
+                    <span class="item__label">
+                        Ecole d'Orthoptie
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                                                
+                                                
+
+
+
+
+
+
+                                            --></li><!--
+                                        
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            --><li class="menu__level__item menu__level__item--last-column" data-toggle-id="1200664525320"><!--
+                                                
+                                                
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/formations/ecole-de-sages-femmes/" aria-expanded="false">
+                    <span class="item__label">
+                        Ecole de Sages Femmes
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                                                
+                                                
+
+
+
+
+
+
+                                            --></li><!--
+                                        
+                                    --></ul><!--
+                                    
+                                    
+                                --></div><!--
+                            
+                        --></li><!--
+                    
+                        
+                        
+                        
+                        
+                        
+                        --><li class="menu__level__item" data-toggle-id="1200651312147"><!--
+                            
+                            
+
+
+
+--><div class="item item--has-button item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/actualites/" aria-expanded="false">
+                    <span class="item__label">
+                        Actualités
+                    </span>
+                </a><!--
+            
+            
+                
+                
+                    
+                    
+                        --><button class="item__control type_rubrique_0001 button button-transparent" type="button" data-toggle="[data-toggle-id='1200651312147']" data-toggle-group="menus" aria-expanded="false">
+                        <span class="item__label">
+                                Actualités
+                        </span>
+                        </button><!--
+                    
+                
+                
+                --><button class="item__toggler button button-transparent" type="button" data-toggle="[data-toggle-id='1200651312147']" data-toggle-group="menus-toggler" aria-expanded="false">
+                    <span class="more">
+                        <svg>
+                            <use xlink:href="/jsp/images/icones.svg#angle-down" />
+                        </svg>
+                    </span>
+                    <span class="less">
+                        <svg>
+                            <use xlink:href="/jsp/images/icones.svg#angle-up" />
+                        </svg>
+                    </span>
+                </button><!--
+            
+        
+        
+    
+--></div><!--
+
+                            
+                                --><div class="menu__level menu__level--1" data-toggle-target><!--
+                                    
+                                    
+                                        
+                                        --><div class="menu__level__parent">
+                                            <a href="https://med.univ-tours.fr/actualites/">
+                                                Actualités
+                                            </a>
+                                        </div><!--
+                                    
+                                    
+                                    --><ul class="menu__level__items"><!--
+                                        
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            --><li class="menu__level__item menu__level__item--first-column" data-toggle-id="1213262908943"><!--
+                                                
+                                                
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/actualites/enseignements/" aria-expanded="false">
+                    <span class="item__label">
+                        Enseignements
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                                                
+                                                
+
+
+
+
+
+
+                                            --></li><!--
+                                        
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            --><li class="menu__level__item menu__level__item--first-column" data-toggle-id="1223977723650"><!--
+                                                
+                                                
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/actualites/paces-actualites/" aria-expanded="false">
+                    <span class="item__label">
+                        PACES : Actualités
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                                                
+                                                
+
+
+
+
+
+
+                                            --></li><!--
+                                        
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            --><li class="menu__level__item menu__level__item--first-column" data-toggle-id="1516007820170"><!--
+                                                
+                                                
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/actualites/shs-actualites/" aria-expanded="false">
+                    <span class="item__label">
+                        SHS : Actualités
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                                                
+                                                
+
+
+
+
+
+
+                                            --></li><!--
+                                        
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            --><li class="menu__level__item menu__level__item--first-column" data-toggle-id="1294414713586"><!--
+                                                
+                                                
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/actualites/inscriptions-actualites/" aria-expanded="false">
+                    <span class="item__label">
+                        Inscriptions : Actualités
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                                                
+                                                
+
+
+
+
+
+
+                                            --></li><!--
+                                        
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            --><li class="menu__level__item menu__level__item--last-column" data-toggle-id="1442217003414"><!--
+                                                
+                                                
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/actualites/formation-medicale-continue/" aria-expanded="false">
+                    <span class="item__label">
+                        Formation Médicale Continue
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                                                
+                                                
+
+
+
+
+
+
+                                            --></li><!--
+                                        
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            --><li class="menu__level__item menu__level__item--last-column" data-toggle-id="1444316902538"><!--
+                                                
+                                                
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/actualites/newsletter-la-rabelaisienne/" aria-expanded="false">
+                    <span class="item__label">
+                        NewsLetter : La Rabelaisienne
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                                                
+                                                
+
+
+
+
+
+
+                                            --></li><!--
+                                        
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            --><li class="menu__level__item menu__level__item--last-column" data-toggle-id="1213263767197"><!--
+                                                
+                                                
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/actualites/vie-de-la-faculte/" aria-expanded="false">
+                    <span class="item__label">
+                        Vie de la Faculté
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                                                
+                                                
+
+
+
+
+
+
+                                            --></li><!--
+                                        
+                                    --></ul><!--
+                                    
+                                    
+                                --></div><!--
+                            
+                        --></li><!--
+                    
+                        
+                        
+                        
+                        
+                        
+                        --><li class="menu__level__item" data-toggle-id="1200652906882"><!--
+                            
+                            
+
+
+
+--><div class="item item--has-button item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/infos-pratiques/" aria-expanded="false">
+                    <span class="item__label">
+                        Infos pratiques
+                    </span>
+                </a><!--
+            
+            
+                
+                
+                    
+                    
+                        --><button class="item__control type_rubrique_0001 button button-transparent" type="button" data-toggle="[data-toggle-id='1200652906882']" data-toggle-group="menus" aria-expanded="false">
+                        <span class="item__label">
+                                Infos pratiques
+                        </span>
+                        </button><!--
+                    
+                
+                
+                --><button class="item__toggler button button-transparent" type="button" data-toggle="[data-toggle-id='1200652906882']" data-toggle-group="menus-toggler" aria-expanded="false">
+                    <span class="more">
+                        <svg>
+                            <use xlink:href="/jsp/images/icones.svg#angle-down" />
+                        </svg>
+                    </span>
+                    <span class="less">
+                        <svg>
+                            <use xlink:href="/jsp/images/icones.svg#angle-up" />
+                        </svg>
+                    </span>
+                </button><!--
+            
+        
+        
+    
+--></div><!--
+
+                            
+                                --><div class="menu__level menu__level--1" data-toggle-target><!--
+                                    
+                                    
+                                        
+                                        --><div class="menu__level__parent">
+                                            <a href="https://med.univ-tours.fr/infos-pratiques/">
+                                                Infos pratiques
+                                            </a>
+                                        </div><!--
+                                    
+                                    
+                                    --><ul class="menu__level__items"><!--
+                                        
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            --><li class="menu__level__item menu__level__item--first-column" data-toggle-id="1211467421331"><!--
+                                                
+                                                
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/infos-pratiques/contacts-et-plan/" aria-expanded="false">
+                    <span class="item__label">
+                        Contacts et plan
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                                                
+                                                
+
+
+
+
+
+
+                                            --></li><!--
+                                        
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            --><li class="menu__level__item menu__level__item--first-column" data-toggle-id="1211467583149"><!--
+                                                
+                                                
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/infos-pratiques/plan-du-site-internet/" aria-expanded="false">
+                    <span class="item__label">
+                        Plan du site internet
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                                                
+                                                
+
+
+
+
+
+
+                                            --></li><!--
+                                        
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            --><li class="menu__level__item menu__level__item--last-column" data-toggle-id="1232027638816"><!--
+                                                
+                                                
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/infos-pratiques/utiles/" aria-expanded="false">
+                    <span class="item__label">
+                        Utiles
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                                                
+                                                
+
+
+
+
+
+
+                                            --></li><!--
+                                        
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            --><li class="menu__level__item menu__level__item--last-column" data-toggle-id="1524237834635"><!--
+                                                
+                                                
+
+
+
+--><div class="item item--has-link"><!--
+    
+        
+            
+                
+                --><a class="item__control type_rubrique_0001" href="https://med.univ-tours.fr/infos-pratiques/acces-directs/" aria-expanded="false">
+                    <span class="item__label">
+                        Accès directs
+                    </span>
+                </a><!--
+            
+            
+        
+        
+    
+--></div><!--
+
+                                                
+                                                
+
+
+
+
+
+
+                                            --></li><!--
+                                        
+                                    --></ul><!--
+                                    
+                                    
+                                --></div><!--
+                            
+                        --></li><!--
+                    
+                --></ul><!--
+                
+            --></div>
+        </nav>
+    
+</div><!-- #menu -->
+
+            </div>
+        </div>
+    </header>
+    <main id="page" class="clear-after">
+            <div class="bandeau" style="background-image: url(/medias/photo/medecine-bandeau-accueil_1522308012808-png);"></div><!-- #bandeau -->
+            <div id="contenu-encadres" class="container">
+        <div id="sans_nav_avec_encadres" class="contenu" role="main">
+                
+
+
+
+
+
+
+
+
+
+
+
+<div class="actions-fiche">
+    <div class="actions-fiche__title">
+        Partager
+    </div>
+    <ul class="actions-fiche__list sans_puce">
+        <li class="actions-fiche__item actions-fiche__item--print">
+            <button type="button" class="button button-transparent" title="Imprimer" onclick="window.print();">
+                <svg>
+                    <use xlink:href="/jsp/images/icones.svg#print" />
+                </svg>
+                <span class="sr-only">Imprimer</span>
+            </button>
+        </li>
+                <li class="actions-fiche__item actions-fiche__item--pdf">
+                    <a class="button button-transparent" title="Version PDF" href="https://med.univ-tours.fr/version-francaise/bienvenue-a-la-faculte-de-medecine-135957.kjsp?RH=MED_FR&amp;toPdf=true" rel="nofollow">
+                        <svg>
+                            <use xlink:href="/jsp/images/icones.svg#pdf" />
+                        </svg>
+                        <span class="sr-only">Version PDF</span>
+                    </a>
+                </li>
+            <li class="actions-fiche__item actions-fiche__item--share">
+                <button type="button" class="button button-transparent" aria-expanded="false" title="Partager" data-toggle=".actions-fiche" data-toggle-class="partage-reseauxsociaux-active">
+                    <svg>
+                        <use xlink:href="/jsp/images/icones.svg#share" />
+                    </svg>
+                    <span class="sr-only">Partager</span>
+                </button>
+                <div class="partage-reseauxsociaux">
+                    <ul class="sans_puce">
+                        <!--
+                            --><li class="partage-reseauxsociaux__item partage-reseauxsociaux__item--facebook">
+                                <a class="js-share-action button button-transparent" href="http://www.facebook.com/sharer/sharer.php?s=100&u=https://med.univ-tours.fr/version-francaise/bienvenue-a-la-faculte-de-medecine-135957.kjsp?RH=MED_FR" title="Facebook">
+                                    <svg>
+                                        <use xlink:href="/jsp/images/icones.svg#facebook" />
+                                    </svg>
+                                    <span class="sr-only">Facebook</span>
+                                </a>
+                            </li><!--
+                            --><li class="partage-reseauxsociaux__item partage-reseauxsociaux__item--twitter">
+                                <a class="js-share-action button button-transparent" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fmed.univ-tours.fr%2Fversion-francaise%2Fbienvenue-a-la-faculte-de-medecine-135957.kjsp%3FRH%3DMED_FR&text=Bienvenue+%C3%A0+la+Facult%C3%A9+de+M%C3%A9decine" title="Twitter">
+                                    <svg>
+                                        <use xlink:href="/jsp/images/icones.svg#twitter" />
+                                    </svg>
+                                    <span class="sr-only">Twitter</span>
+                                </a>
+                            </li><!--
+                            --><li class="partage-reseauxsociaux__item partage-reseauxsociaux__item--googleplus">
+                                <a class="js-share-action button button-transparent" href="https://plus.google.com/share?url=https://med.univ-tours.fr/version-francaise/bienvenue-a-la-faculte-de-medecine-135957.kjsp?RH=MED_FR" title="Google+">
+                                    <svg>
+                                        <use xlink:href="/jsp/images/icones.svg#googleplus" />
+                                    </svg>
+                                    <span class="sr-only">Google+</span>
+                                </a>
+                            </li><!--
+                            --><li class="partage-reseauxsociaux__item partage-reseauxsociaux__item--linkedin">
+                                <a class="js-share-action button button-transparent" href="http://www.linkedin.com/shareArticle?mini=true&url=https://med.univ-tours.fr/version-francaise/bienvenue-a-la-faculte-de-medecine-135957.kjsp?RH=MED_FR" title="Linkedin">
+                                    <svg>
+                                        <use xlink:href="/jsp/images/icones.svg#linkedin" />
+                                    </svg>
+                                    <span class="sr-only">Linkedin</span>
+                                </a>
+                            </li><!--
+                            --><li class="partage-reseauxsociaux__item partage-reseauxsociaux__item--viadeo">
+                                <a class="js-share-action button button-transparent" href="http://www.viadeo.com/shareit/share/?url=https://med.univ-tours.fr/version-francaise/bienvenue-a-la-faculte-de-medecine-135957.kjsp?RH=MED_FR" title="Viadeo">
+                                    <svg>
+                                        <use xlink:href="/jsp/images/icones.svg#viadeo" />
+                                    </svg>
+                                    <span class="sr-only">Viadeo</span>
+                                </a>
+                            </li><!--
+                    --></ul>
+                </div>
+            </li>
+    </ul><!-- .actions-fiche -->
+</div>
+
+            <div id="zone-titre">
+                
+
+
+
+
+
+
+
+
+
+
+
+        <div id="fil_ariane">
+            <span class="sr-only">Vous êtes ici&nbsp;:</span> <a href="https://med.univ-tours.fr/version-francaise/">Version française</a>
+        </div>
+
+                    <h1>Bienvenue à la Faculté de Médecine</h1>
+            </div>
+
+
+
+
+
+
+<div class="ligne_1"><div class="colonne_1">
+                <div class="colonne_deco"><div class="paragraphe--0"><div class="paragraphe__contenu--0 toolbox">
+                                <h2>Région Centre Val de Loire</h2>
+<span class="klist">    <ul class="objets actualites style--0002">        <li class="avec_vignette">                <div class="vignette_deco" style="background-image: url(https://med.univ-tours.fr/medias/photo/jpo-actu_1547461671970-jpg);">                    <img class="vignette" src="https://med.univ-tours.fr/medias/photo/jpo-actu_1547461671970-jpg" alt="">                </div>            <div class="vignette_deco2">                <strong><a href="https://med.univ-tours.fr/actualites/vie-de-la-faculte/medecine-journee-portes-ouvertes-2019-265815.kjsp?RH=MED_FR" class="lien_interne">Médecine: Journée Portes Ouvertes 2019</a></strong>                    <div class="date">                        <span class="date--debut">2 mars 2019</span>                    </div><!-- .date -->                    <div class="resume">La Journée Portes Ouvertes aura lieu le samedi 2 mars 2019. <br> Filières : Médecine, Sages-Femmes, Orthophonie, Orthoptie, Masso-kinésithérapie d'Orléans.</div><!-- .resume -->            </div> <!-- .vignette_deco2 -->        </li>        <li class="avec_vignette">                <div class="vignette_deco" style="background-image: url(https://med.univ-tours.fr/medias/photo/orthoptie_1548922802284-jpg);">                    <img class="vignette" src="https://med.univ-tours.fr/medias/photo/orthoptie_1548922802284-jpg" alt="">                </div>            <div class="vignette_deco2">                <strong><a href="https://med.univ-tours.fr/actualites/orthoptie-concours-680810.kjsp?RH=MED_FR" class="lien_interne">Orthoptie: Concours</a></strong>                    <div class="date">                        <span class="date--debut">4 février 2019</span>                        -                        <span class="date--fin">22 mars 2019</span>                    </div><!-- .date -->            </div> <!-- .vignette_deco2 -->        </li>        <li class="avec_vignette">                <div class="vignette_deco" style="background-image: url(https://med.univ-tours.fr/medias/photo/showa_1550226693709-jpg);">                    <img class="vignette" src="https://med.univ-tours.fr/medias/photo/showa_1550226693709-jpg" alt="">                </div>            <div class="vignette_deco2">                <strong><a href="https://med.univ-tours.fr/actualites/journee-internationale-des-maladies-rares-rare-disease-day--684878.kjsp?RH=MED_FR" class="lien_interne">Journée Internationale des Maladies Rares (Rare Disease Day)</a></strong>                    <div class="date">                        <span class="date--debut">28 février 2019</span>                    </div><!-- .date -->                    <div class="resume">Sensibiliser le grand public et les décideurs sur les maladies rares et leur impact sur la vie des personnes concernées.</div><!-- .resume -->            </div> <!-- .vignette_deco2 -->        </li>        <li class="avec_vignette">                <div class="vignette_deco" style="background-image: url(https://med.univ-tours.fr/medias/photo/paces-dec2015_1484209885700-jpg);">                    <img class="vignette" src="https://med.univ-tours.fr/medias/photo/paces-dec2015_1484209885700-jpg" alt="">                </div>            <div class="vignette_deco2">                <strong><a href="https://med.univ-tours.fr/actualites/paces-actualites/paces-resultats-1er-semestre-675450.kjsp?RH=MED_FR" class="lien_interne">PACES: Résultats 1er semestre</a></strong>                    <div class="date">                        <span class="date--debut">10 janvier 2019</span>                        -                        <span class="date--fin">10 février 2019</span>                    </div><!-- .date -->                    <div class="resume">Parution des résultats</div><!-- .resume -->            </div> <!-- .vignette_deco2 -->        </li>        <li class="avec_vignette">                <div class="vignette_deco" style="background-image: url(https://med.univ-tours.fr/medias/photo/capture-d-e-cran-2019-01-07-a-09-27-13_1546849652582-png);">                    <img class="vignette" src="https://med.univ-tours.fr/medias/photo/capture-d-e-cran-2019-01-07-a-09-27-13_1546849652582-png" alt="">                </div>            <div class="vignette_deco2">                <strong><a href="https://med.univ-tours.fr/actualites/vie-de-la-faculte/meilleurs-voeux-2019-de-la-part-du-doyen-patrice-diot-et-de-toute-son-equipe--497265.kjsp?RH=MED_FR" class="lien_interne">Meilleurs voeux 2019 de la part du Doyen Patrice Diot et de toute son équipe!</a></strong>                    <div class="date">                        <span class="date--debut">7 janvier 2019</span>                    </div><!-- .date -->                    <div class="resume">Toute l'équipe de la Faculté de médecine vous souhaite une très bonne année 2019!</div><!-- .resume -->            </div> <!-- .vignette_deco2 -->        </li>    </ul></span><br>
+
+                            </div><!-- .paragraphe__contenu--0 .toolbox -->
+                        </div><!-- paragraphe--0 --><div class="paragraphe--1">
+                                <h2 class="paragraphe__titre--1">La Facult&#233; de M&#233;decine s&#39;engage :</h2><div class="paragraphe__contenu--1 toolbox">
+                                
+<span class="klist">    <ul class="objets pardefaut">    <li><a href="https://med.univ-tours.fr/actualites/vie-de-la-faculte/la-faculte-dans-son-territoire-engagements-2016-2018-550013.kjsp?RH=MED_FR" class="lien_interne">La Faculté dans son territoire, engagements 2016-2018</a></li><li><a href="https://med.univ-tours.fr/actualites/vie-de-la-faculte/decouvrez-l-offre-de-sante-du-pays-chinonais--570241.kjsp?RH=MED_FR" class="lien_interne">Découvrez l'offre de santé du Pays Chinonais!</a></li>    </ul></span>
+                            </div><!-- .paragraphe__contenu--1 .toolbox -->
+                        </div><!-- paragraphe--1 --></div><!-- colonne_deco -->
+            </div><!-- .colonne_1 --></div><!-- .ligne_1 -->
+
+
+
+
+
+
+
+                    <div id="redacteur-date-impression">
+                    </div><!-- #redacteur-date-impression -->
+            </div> <!-- .contenu -->
+            
+
+
+
+
+
+
+
+
+<div id="encadres" role="complementary">
+        
+
+
+
+
+
+
+
+        <div class="encadre encadre_fiche encadre--2">
+                <h2 class="encadre__titre--2">Acc&#232;s directs</h2>
+            <div class="encadre_contenu encadre__contenu--2">
+                 <span class="lien-fleche"><a class="lien_externe" href="http://ent.univ-tours.fr" title="ENT">ENT</a></span><br>
+<span class="lien-fleche"><a class="lien_externe" href="/la-faculte/organisation/scolarite-116605.kjsp?RH=1211467421331" title="SCOLARITÉ">SCOLARITÉ</a></span><br>
+<span class="lien-fleche"><a class="lien_externe" href="http://annuaire-chu.univ-tours.fr/public/annuaire/V7/" title="ANNUAIRE DU CHU">ANNUAIRE DU CHU</a></span><br>
+<span class="lien-fleche"><a class="lien_externe" href="/nos-unites-de-recherche/" title="UNITÉS DE RECHERCHE">UNITÉS DE RECHERCHE</a><br>
+<a class="lien_interne" href="https://dumg.univ-tours.fr/accueil/bienvenue-au-departement-universitaire-de-medecine-generale-de-tours-647119.kjsp?RH=MED_FR" title="DUMG">DUMG</a></span><br>
+<span class="lien-fleche"><a class="lien_externe" href="https://fmc.univ-tours.fr" title="FMC">FMC</a></span><br>
+<br>
+
+            </div><!-- .encadre_contenu .encadre__contenu -->
+        </div><!-- .encadre_fiche .encadre -->
+        <div class="encadre encadre_fiche encadre--1">
+                <h2 class="encadre__titre--1">Suivez-nous !</h2>
+            <div class="encadre_contenu encadre__contenu--1">
+                
+<a href="https://www.facebook.com/facmedtours" class="lien_externe"><img alt="" src="https://med.univ-tours.fr/medias/photo/facebook_1479217883920-jpg?ID_FICHE=130904" style="width:100px;height:39px;margin:0px 5px;border:px solid;float:;" title="Facebook"></a><br>
+<a href="https://twitter.com/FacmedTours" class="lien_externe"><img alt="" src="https://med.univ-tours.fr/medias/photo/tweeter_1479217936059-jpg?ID_FICHE=130904" style="width:100px;height:53px;margin:0px 5px;border:px solid;float:;" title="Tweeter"></a>
+            </div><!-- .encadre_contenu .encadre__contenu -->
+        </div><!-- .encadre_fiche .encadre -->
+
+
+        
+
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+</div><!-- #encadres -->
+
+                </div><!-- #contenu-encadres -->
+            <div class="container" id="plugins-zone">
+            </div>
+        </main><!-- #page -->
+        <footer class="footer">
+                <div class="footer__decoration">
+                        <div class="footer__decoration__photo" style="background-image: url(/uas/medecine/NOM_PROPRIETE_FOND_PIED_PAGE/Fond_pied_de_page.jpg);"></div>
+                        <a class="footer__decoration__logo" href="https://www.univ-tours.fr/site-de-l-universite/" title="Site de l'université">
+                            <img class="footer__decoration__logo__image" src="/jsp/images/logo_pied_de_page.svg" alt="Logo Faculté de médecine" />
+                        </a>
+                </div>
+            <nav class="footer__nav" role="contentinfo">
+                
+
+
+
+
+    <div class="footer__menu footer__menu--mobile-fold">
+        <div class="footer__menu__titre" data-toggle="[data-toggle-id='menu-acces-pratiques']">
+            Pratique
+        </div>
+        <ul class="footer__menu__liste" data-toggle-id="menu-acces-pratiques">
+            
+                <li class="footer__menu__item">
+                    
+                        
+                            <a class="footer__menu__item__link type_rubrique_0005" href="https://med.univ-tours.fr/annuaire-/">
+                                
+                                <span class="footer__menu__item__name">
+                                    Annuaire
+                                </span>
+                            </a>
+                        
+                        
+                    
+                    
+                </li>
+            
+                <li class="footer__menu__item">
+                    
+                        
+                            <a class="footer__menu__item__link type_rubrique_0001" href="https://med.univ-tours.fr/plan-d-acces/">
+                                
+                                <span class="footer__menu__item__name">
+                                    Plan d&#039;accès
+                                </span>
+                            </a>
+                        
+                        
+                    
+                    
+                </li>
+            
+                <li class="footer__menu__item">
+                    
+                        
+                            <a class="footer__menu__item__link type_rubrique_0001" href="https://med.univ-tours.fr/contacts/">
+                                
+                                <span class="footer__menu__item__name">
+                                    Contacts
+                                </span>
+                            </a>
+                        
+                        
+                    
+                    
+                </li>
+            
+                <li class="footer__menu__item">
+                    
+                        
+                            <a class="footer__menu__item__link type_rubrique_0500" href="https://med.univ-tours.fr/agenda-/">
+                                
+                                <span class="footer__menu__item__name">
+                                    Agenda
+                                </span>
+                            </a>
+                        
+                        
+                    
+                    
+                </li>
+            
+                <li class="footer__menu__item">
+                    
+                        
+                            <a class="footer__menu__item__link type_rubrique_0001" href="https://med.univ-tours.fr/culture/">
+                                
+                                <span class="footer__menu__item__name">
+                                    Culture
+                                </span>
+                            </a>
+                        
+                        
+                    
+                    
+                </li>
+            
+                <li class="footer__menu__item">
+                    
+                        
+                            <a class="footer__menu__item__link type_rubrique_0001" href="https://med.univ-tours.fr/marches-publics/">
+                                
+                                <span class="footer__menu__item__name">
+                                    Marchés publics
+                                </span>
+                            </a>
+                        
+                        
+                    
+                    
+                </li>
+            
+                <li class="footer__menu__item">
+                    
+                        
+                            <a class="footer__menu__item__link type_rubrique_0001" href="https://med.univ-tours.fr/recrutement/">
+                                
+                                <span class="footer__menu__item__name">
+                                    Recrutement
+                                </span>
+                            </a>
+                        
+                        
+                    
+                    
+                </li>
+            
+        </ul>
+    </div>
+
+
+                
+
+
+
+
+    <div class="footer__menu footer__menu--mobile-fold">
+        <div class="footer__menu__titre" data-toggle="[data-toggle-id='menu-acces-rapides']">
+            Accès rapides
+        </div>
+        <ul class="footer__menu__liste" data-toggle-id="menu-acces-rapides">
+            
+                <li class="footer__menu__item">
+                    
+                        
+                            <a class="footer__menu__item__link type_rubrique_0001" href="https://med.univ-tours.fr/les-facultes-instituts-ecole/">
+                                
+                                <span class="footer__menu__item__name">
+                                    Les facultés, instituts &amp; école
+                                </span>
+                            </a>
+                        
+                        
+                    
+                    
+                </li>
+            
+                <li class="footer__menu__item">
+                    
+                        
+                            <a class="footer__menu__item__link type_rubrique_0001" href="https://med.univ-tours.fr/bibliotheques-/">
+                                
+                                <span class="footer__menu__item__name">
+                                    Bibliothèques
+                                </span>
+                            </a>
+                        
+                        
+                    
+                    
+                </li>
+            
+                <li class="footer__menu__item">
+                    
+                        
+                            <a class="footer__menu__item__link type_rubrique_0001" href="https://med.univ-tours.fr/inscription/">
+                                
+                                <span class="footer__menu__item__name">
+                                    Inscription
+                                </span>
+                            </a>
+                        
+                        
+                    
+                    
+                </li>
+            
+                <li class="footer__menu__item">
+                    
+                        
+                            <a class="footer__menu__item__link type_rubrique_0001" href="https://med.univ-tours.fr/nos-unites-de-recherche-/">
+                                
+                                <span class="footer__menu__item__name">
+                                    Nos unités de recherche
+                                </span>
+                            </a>
+                        
+                        
+                    
+                    
+                </li>
+            
+                <li class="footer__menu__item">
+                    
+                        
+                            <a class="footer__menu__item__link type_rubrique_0004" href="https://med.univ-tours.fr/ent-/">
+                                
+                                <span class="footer__menu__item__name">
+                                    ENT
+                                </span>
+                            </a>
+                        
+                        
+                    
+                    
+                </li>
+            
+                <li class="footer__menu__item">
+                    
+                        
+                            <a class="footer__menu__item__link type_rubrique_0004" href="https://med.univ-tours.fr/intranet/">
+                                
+                                <span class="footer__menu__item__name">
+                                    Intranet
+                                </span>
+                            </a>
+                        
+                        
+                    
+                    
+                </li>
+            
+        </ul>
+    </div>
+
+
+                
+
+
+
+
+    <div class="footer__menu">
+        <div class="footer__menu__titre" data-toggle="[data-toggle-id='menu-reseaux-sociaux']">
+            Suivez-nous
+        </div>
+        <ul class="footer__menu__liste" data-toggle-id="menu-reseaux-sociaux">
+            
+                <li class="footer__menu__item">
+                    
+                        
+                            <a class="footer__menu__item__link type_rubrique_0004" href="https://med.univ-tours.fr/facebook/">
+                                
+                                <span class="footer__menu__item__name">
+                                    Facebook
+                                </span>
+                            </a>
+                        
+                        
+                    
+                    
+                </li>
+            
+                <li class="footer__menu__item">
+                    
+                        
+                            <a class="footer__menu__item__link type_rubrique_0004" href="https://med.univ-tours.fr/twitter/">
+                                
+                                <span class="footer__menu__item__name">
+                                    Twitter
+                                </span>
+                            </a>
+                        
+                        
+                    
+                    
+                </li>
+            
+                <li class="footer__menu__item">
+                    
+                        
+                            <a class="footer__menu__item__link type_rubrique_0004" href="https://med.univ-tours.fr/instagram/">
+                                
+                                <span class="footer__menu__item__name">
+                                    Instagram
+                                </span>
+                            </a>
+                        
+                        
+                    
+                    
+                </li>
+            
+                <li class="footer__menu__item">
+                    
+                        
+                            <a class="footer__menu__item__link type_rubrique_0004" href="https://med.univ-tours.fr/youtube/">
+                                
+                                <span class="footer__menu__item__name">
+                                    Youtube
+                                </span>
+                            </a>
+                        
+                        
+                    
+                    
+                </li>
+            
+                <li class="footer__menu__item">
+                    
+                        
+                            <a class="footer__menu__item__link type_rubrique_0004" href="https://med.univ-tours.fr/linkedin/">
+                                
+                                <span class="footer__menu__item__name">
+                                    LinkedIn
+                                </span>
+                            </a>
+                        
+                        
+                    
+                    
+                </li>
+            
+        </ul>
+    </div>
+
+
+            </nav><!-- #pied_page -->
+            <nav class="footer__bottom">
+                
+
+
+
+<ul id="menu_pied_page"><!----><li><a href="https://med.univ-tours.fr/mentions-legales/">Mentions légales</a></li><!----><li><a href="https://med.univ-tours.fr/plan-du-site/">Plan du site</a></li><!----></ul><!-- #menu_pied_page -->
+
+            </nav>
+        </footer><!-- #pied_deco -->
+        <span id="haut_page">
+            <span aria-hidden="true" class="icon icon-arrow-up"></span>
+            <a href="#body">
+                <span class="icon-libelle">Haut de page</span>
+            </a>
+        </span>
+        <a class="url-fiche" href="https://med.univ-tours.fr/version-francaise/bienvenue-a-la-faculte-de-medecine-135957.kjsp?RH=MED_FR">https://med.univ-tours.fr/version-francaise/bienvenue-a-la-faculte-de-medecine-135957.kjsp?RH=MED_FR</a>
+        <script type="text/javascript" src="https://med.univ-tours.fr/wro/scriptsFo_fr_FR/54a5a073f04610be104371d130a37b1f6f3aaa56.js"></script>
+        
+
+
+
+
+    </body>
+</html>
+
